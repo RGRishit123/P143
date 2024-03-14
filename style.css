@@ -1,0 +1,40 @@
+.heading
+{
+   width: 100%;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#start ,#status
+{
+    font-size: 22px;
+}
+
+
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body{
+    text-align: left;
+    font-size: 21px;
+}
+h4
+{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 2;
+    text-align: center;
+    z-index: 3;
+    margin-top:30px;
+     opacity: 50%;
+}
+
+
